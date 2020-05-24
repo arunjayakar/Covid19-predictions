@@ -1,1 +1,1 @@
-# Covid19-predictions
+# COVID-19-PREDICTIONS
